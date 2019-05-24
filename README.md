@@ -12,7 +12,7 @@ dostarczającego produkt w oparciu o moje doświadczenia jako deweloper, system 
 
 Slides:
 
-- LinkedIn slides - TODO
+- LinkedIn [SlideShare](https://www.slideshare.net/WojciechBarczyski/devops-what-i-have-learnt-so-far)
 - [pdf (30MB)](slides.pdf)
 - [pptx (80MB)](slides.pptx)
 
@@ -24,4 +24,6 @@ Questions, Feedback? Let me know at wojciech.barczynski@hypatos.ai.
 
 ps. You can find a list of my talks at [wbarczynski.pl/talks](http://wbarczynski.pl/talks) and [my github](https://github.com/wojciech12).
 
-pps. We are hiring - [github.com/hypatos/jobs](https://github.com/hypatos/jobs).
+pps. Want to learn more? Do not miss [CloudNativeWarsaw](http://www.cloudnativewarsaw.com/).
+
+ppps. We are hiring - [github.com/hypatos/jobs](https://github.com/hypatos/jobs).

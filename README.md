@@ -16,11 +16,7 @@ Slides:
 - [pdf (30MB)](slides.pdf)
 - [pptx (80MB)](slides.pptx)
 
-Helpful? Please give a *LIKE* to [a recent LinkedIn post about this talk](https://www.linkedin.com/feed/update/urn:li:activity:6536510958922186752) or a *STAR* to [this github repo](https://github.com/wojciech12/talk_devops_lessons_learnt)
-
-
-Questions, Feedback? Let me know at wojciech.barczynski@hypatos.ai.
-
+Helpful? Please give a *LIKE* to [a recent LinkedIn post about this talk](https://www.linkedin.com/feed/update/urn:li:activity:6536510958922186752) or a *STAR* to [this github repo](https://github.com/wojciech12/talk_devops_lessons_learnt). Questions, Feedback? Let me know at wojciech.barczynski@hypatos.ai.
 
 ps. You can find a list of my talks at [wbarczynski.pl/talks](http://wbarczynski.pl/talks) and [my github](https://github.com/wojciech12).
 
